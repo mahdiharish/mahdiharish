@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on personal projects, such as revamping older projects and mandatory projects from RevoU.<br>👯 I’m looking to collaborate on full stack projects, and hopefully able to contribute to open source ones.<br>🌱 I’m currently learning more about Golang, PHP, and sharpening my understanding on React and front-end frameworks.
+🔭 I’m currently working on personal projects, such as revamping older projects and mandatory projects from RevoU.<br>👯 I’m looking to collaborate on full stack projects, and hopefully able to contribute to open source ones.<br>🌱 I’m currently learning more about Golang, PHP, and sharpening my understanding on React and front-end frameworks. I am also exploring more with Astro and currently revamping my personal website using it. It's pretty fun.
 
 
 ## 🌐 Socials:
